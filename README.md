@@ -1,4 +1,4 @@
-# CodingTestStudy_2025
+# Codingtest-Study-2025
 > 코딩 테스트 스터디를 위한 저장소입니다. 
 
 - 기간: 2025년 3월~
