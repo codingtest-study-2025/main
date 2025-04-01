@@ -34,7 +34,7 @@
 
 #### Pull Request
 
-- [Baekjoon-문제번호] 이름
+- [Baekjoon-주차] 이름
 
 #### Commit Message
 
