@@ -61,4 +61,7 @@
 | -------- | -----------|------------|------------------------------------------| --------------|
 | 1주차    |[트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | [트리 순회](https://www.acmicpc.net/problem/1991) | [안전 영역](https://www.acmicpc.net/problem/2468) |  ` 진행 완료 `  |
 | 2주차    |[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) | [이진 검색 트리](https://www.acmicpc.net/problem/5639)|  ` 진행 완료 `  |
-| 2주차    |[루머](https://www.acmicpc.net/problem/19538) |  |  |  ` 진행중 `  |
+| 2주차    |[트리의 지름](https://www.acmicpc.net/problem/1967) | [트리](https://www.acmicpc.net/problem/4803) | [편세권](https://www.acmicpc.net/problem/31849)|  ` 진행 완료 `  |
+| 4주차    |[루머](https://www.acmicpc.net/problem/19538) |  |  |  ` 진행 완료 `  |
+| 5주차    |[욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | [아기 상어](https://www.acmicpc.net/problem/16236) | [벽 부수고 이동하기 3
+](https://www.acmicpc.net/problem/16933)|  ` 진행중 `  |
