@@ -63,4 +63,5 @@
 | 2주차    |[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) | [이진 검색 트리](https://www.acmicpc.net/problem/5639)|  ` 진행 완료 `  |
 | 2주차    |[트리의 지름](https://www.acmicpc.net/problem/1967) | [트리](https://www.acmicpc.net/problem/4803) | [편세권](https://www.acmicpc.net/problem/31849)|  ` 진행 완료 `  |
 | 4주차    |[루머](https://www.acmicpc.net/problem/19538) |  |  |  ` 진행 완료 `  |
-| 5주차    |[욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | [아기 상어](https://www.acmicpc.net/problem/16236) | [벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)|  ` 진행중 `  |
+| 5주차    |[욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | [아기 상어](https://www.acmicpc.net/problem/16236) | [벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)|  ` 진행 완료 `  |
+| 6주차    |[파티](https://www.acmicpc.net/problem/1238) | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | [레이저 통신](https://www.acmicpc.net/problem/6087)|  ` 진행중 `  |
