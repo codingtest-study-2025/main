@@ -65,4 +65,5 @@
 | 4주차    |[루머](https://www.acmicpc.net/problem/19538) |  |  |  ` 진행 완료 `  |
 | 5주차    |[욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | [아기 상어](https://www.acmicpc.net/problem/16236) | [벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)|  ` 진행 완료 `  |
 | 6주차    |[파티](https://www.acmicpc.net/problem/1238) | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | [레이저 통신](https://www.acmicpc.net/problem/6087)|  ` 진행완료 `  |
-| 7주차    |[레이저 통신](https://www.acmicpc.net/problem/6087) | [모비스터디](https://www.acmicpc.net/problem/31230) | [전투 시뮬레이션](https://www.acmicpc.net/problem/19537)|  ` 진행중 `  |
+| 7주차    |[레이저 통신](https://www.acmicpc.net/problem/6087) | [모비스터디](https://www.acmicpc.net/problem/31230) | [전투 시뮬레이션](https://www.acmicpc.net/problem/19537)|  ` 진행 완료 `  |
+| 8주차    |[1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | [센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638) | [평범한 배낭](https://www.acmicpc.net/problem/12865)|  ` 진행 완료 `  |
